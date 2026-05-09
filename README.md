@@ -1,5 +1,6 @@
 # Hey 👋. I'm [Britt][link-github]
 I'm currently a Drupal backend developer at [iO][link-iO]
+
 Focused on scalable backend architecture, headless Drupal, GraphQL and API integrations.
 
 # Verifications
